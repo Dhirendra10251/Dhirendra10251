@@ -1,10 +1,15 @@
-<h2 align="center">A passionate Tech Enthusiast from India</h2>
+<h1 align="center">Hi 👋, I'm Dhirendra Kumar Thakur</h1>
+<h3 align="center">A passionate Tech enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirendra10251&label=Profile%20views&color=0e75b6&style=flat" alt="dhirendra10251" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhirendra10251" alt="dhirendra10251" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dhirendrakt18" target="blank"><img src="https://img.shields.io/twitter/follow/dhirendrakt18?logo=twitter&style=for-the-badge" alt="dhirendrakt18" /></a> </p>
+
+- 🌱 I’m currently learning **CSE specialization in AI and ML**
+
+- 📫 How to reach me **dkt0887@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhirendra10251&show_icons=true&locale=en" alt="dhirendra10251" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirendra10251&" alt="dhirendra10251" /></p>
-
