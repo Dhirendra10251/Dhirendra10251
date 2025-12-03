@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dhirendra Kumar Thakur</h1>
-<h3 align="center">A passionate Tech enthusiast from India</h3>
+<h3 align="center">🌟A passionate Tech enthusiast from India</h3>
+
+<!-- Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Passionate+about+AI+%26+Machine+Learning+Tech;DSA+%7C+Web+Development+%7C+Open+Source;Always+Learning+%26+Building!" alt="Typing Animation" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirendra10251&label=Profile%20views&color=0e75b6&style=flat" alt="dhirendra10251" /> </p>
 
