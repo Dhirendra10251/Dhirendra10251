@@ -28,11 +28,10 @@ name        : Dhirendra Kumar Thakur
 location    : India 
 university  : VIT Bhopal University
 degree      : B.Tech CSE — AI & ML Specialization (2025–2029)
-role        : Student • Builder • CTF Competitor
+role        : Student • Builder 
 
 currently   :
-  - 🤖  Exploring AI/ML, Numerical Methods & Computational Physics
-  - 🐉  CTF Competitions with Team Cyber Snipers
+  - 🤖  Exploring AI/ML
   - 🛠️  Building real-world AI tools (AaharAI, VIGIL, Spectral)
   - 📸  Photography & Creative Writing on the side
 
