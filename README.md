@@ -151,7 +151,7 @@ reach_me_at : dkt0887@gmail.com
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="10%">🥇</td>
+      <td align="center" width="10%">🏅</td>
       <td><b>9th / 248</b> — AMD Slingshot Prompthathon 2025 (AaharAI)</td>
     </tr>
     <tr>
