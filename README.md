@@ -179,7 +179,7 @@ reach_me_at : dkt0887@gmail.com
     <img src="https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/DhirendraDkt18">
+  <a href="https://twitter.com/Dhirendrakt18">
     <img src="https://img.shields.io/badge/Twitter-0a0a1a?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" />
   </a>
   &nbsp;
