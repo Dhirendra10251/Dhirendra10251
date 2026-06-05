@@ -25,7 +25,7 @@
 
 ```yaml
 name        : Dhirendra Kumar Thakur
-location    : India 
+location    : Hyderabad, India 
 university  : VIT Bhopal University
 degree      : B.Tech CSE — AI & ML Specialization (2025–2029)
 role        : Student • Builder 
@@ -35,7 +35,7 @@ currently   :
   - 🛠️  Building real-world AI tools (AaharAI, VIGIL, Spectral)
   - 📸  Photography & Creative Writing on the side
 
-ask_me_about: ["Python", "ML", "CTF", "Hackathons", "AI Apps"]
+ask_me_about: ["Python", "ML", "Hackathons", "AI Apps","DSA","Prompt Engineering","Web-Devlopment"]
 reach_me_at : dkt0887@gmail.com
 ```
 
