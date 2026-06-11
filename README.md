@@ -146,31 +146,6 @@ reach_me_at : dkt0887@gmail.com
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="10%">🏅</td>
-      <td><b>9th / 248</b> — AMD Slingshot Prompthathon 2025 (AaharAI)</td>
-    </tr>
-    <tr>
-      <td align="center" width="10%">🎯</td>
-      <td><b>36th / ~200+ teams</b> — HackZero '26 CTF (Score: 4545)</td>
-    </tr>
-    <tr>
-      <td align="center" width="10%">🎓</td>
-      <td><b>Deloitte Forage Virtual Internship</b> — Python Data Engineering Track</td>
-    </tr>
-    <tr>
-      <td align="center" width="10%">🏅</td>
-      <td><b>AMD × Google Build with AI</b> — Attendee & Participant Badge</td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
