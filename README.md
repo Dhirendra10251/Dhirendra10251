@@ -162,9 +162,6 @@ reach_me_at : dkt0887@gmail.com
     <img src="https://img.shields.io/badge/Gmail-0a0a1a?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://github.com/Dhirendra10251">
-    <img src="https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-  </a>
 
 </div>
 
