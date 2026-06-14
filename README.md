@@ -60,11 +60,12 @@ reach_me_at : dkt0887@gmail.com
         <td align="center"><kbd>Gemini</kbd> <kbd>Antigravity</kbd> <kbd>Prompt Eng</kbd></td>
         <td align="center"><a href="https://amd-promptathon-395841381776.asia-south1.run.app">🚀 Launch</a></td>
       </tr>
-      <tr>
-        <td align="center">🛡️ <b>VIGIL</b></td>
-        <td align="left">AI-Powered Civic Corruption Intelligence System —<br/>CitizenShield & TenderWatch modules.</td>
-        <td align="center"><kbd>AI</kbd> <kbd>Data Analysis</kbd> <kbd>Civic Tech</kbd></td>
-        <td align="center">—</td>
+     <tr>
+        <td align="center">🧠 <b>Neuro-SORT</b></td>
+        <td align="left">An event-driven, ultra-low-power Spiking Neural Network (SNN) for edge-based waste classification. Built with snnTorch and PyTorch.</td>
+        <td align="center"><kbd>Sustainability</kbd> <kbd>Computer Vision</kbd> <kbd>Spiking Neural Networks</kbd><br/>
+                           <kbd>Neuromorphic Computing</kbd> <kbd>Edge AI</kbd> <kbd>Streamlit</kbd> <kbd>SNNTorch</kbd></td>
+        <td align="center"><a href="neurosort-1.streamlit.app/">🧠 Launch</a></td>
       </tr>
       <tr>
         <td align="center">🔭 <b>Spectral</b></td>
