@@ -150,7 +150,9 @@ reach_me_at : dkt0887@gmail.com
 ## 🌐 Connect With Me
 
 <div align="center">
-
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-dhirendrakumarthakur.netlify.app-FF5733?style=for-the-badge&logo=netlify&logoColor=white)](https://dhirendrakumarthakur.netlify.app)
+  
   <a href="https://linkedin.com/in/dhirendrakumarthakur">
     <img src="https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
